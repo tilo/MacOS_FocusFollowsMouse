@@ -4,10 +4,10 @@ Still experimental -- pull requests welcome! ❤️
 
 ## Installation
 
-* install hammerspoon
+* install [Hammerspoon](https://www.hammerspoon.org/go/)
 * in your homedirectory create a directory `./hammerspoon`
 * copy the `Spoons` directory and the `init.lua` file to `./hammerspoon`
-* restart hammerspoon
+* restart Hammerspoon
 
 ## Why? / Background
 
